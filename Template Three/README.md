@@ -7,7 +7,7 @@ This is a frontend project template designed to improve and practice front-end d
 - this is a demo of the template: 
 https://mohamed-gaafar.github.io/Front-end-projs/Template%20Three/
 
-## Features
+## Features 
 
 - **Responsive Design**: The website is responsive, ensuring that it looks great on various devices, including desktops, tablets, and mobile phones.
 - **Modern UI**: The layout and design follow a clean and modern style with vibrant colors and smooth transitions.
