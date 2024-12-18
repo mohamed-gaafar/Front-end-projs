@@ -3,7 +3,9 @@
 
 This is a creative web template built with HTML, CSS, and Font Awesome icons. The template is designed for showcasing a portfolio, offering services, and providing contact information. It features a modern and clean layout with a smooth scrolling experience.
 
-## Features
+## Demo
+- this is a demo of the template: 
+https://mohamed-gaafar.github.io/Front-end-projs/Template%20One/
 
 ## Features
 
